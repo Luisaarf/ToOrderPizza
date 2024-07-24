@@ -6,6 +6,8 @@
 />
 </p>
 
+### 🤖 DEV
+
 This project uses React, Javascript, NodeJS, and Gemini to create a simple web chat.
 
 To run this chat in the development mode to view it in your browser you have to open two terminals and run the following scripts in each of them in the following order:
@@ -18,36 +20,20 @@ GOOGLE_GEN_API_KEY=xxxxx
 
 To get your API key, visit the Google website that contains the documentation, available at: https://ai.google.dev/gemini-api/docs/api-key
 
-## 📒 Descrição
+### 📒 Descrição
+Converse com um modelo de IA que atua como um atendente de pizzaria.
 
-Essa IA atua como um atendente de pizzaria.
-
-## 🤖 Tecnologias Utilizadas
-
+### 🤖 Tecnologias Utilizadas
 Para fazer o pizzaiolo primeiro foi gerada uma imagem utilizando a ferramenta LeonardoAI que depois foi animada com ImmersityAI
 O Gemini ele é responsável pela parte de interpretação e geração textuals
-
 - [LeonardoAI](https://leonardo.ai/)
 - [Gemini](https://ai.google.dev/gemini-api/)
 - [ImmersityAI](https://app.immersity.ai/)
 
-## 🧐 Processo de Criação
+### Inspiração
+* desafio da DIO:*  **_Natural ou Fake Natty? Como Vencer na Era das IAs Generativas_**
 
-Descreva como você criou o conteúdo
-
-## 💭 Reflexão (Opcional)
-
-Comente sobre o desafio de criar algo 'natty' com IA.
-
-#### Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
+## Links Interessantes relacionados a IAs
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
