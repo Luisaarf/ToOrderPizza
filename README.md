@@ -1,42 +1,43 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Order a pizza with Gemini model created using Google API
 
-## 🚀 Introdução
+This project uses React, Javascript, NodeJS, and Gemini to create a simple web chat.
 
-> Woooow! Look at this 👀
+To run this chat in the development mode to view it in your browser you have to open two terminals and run the following scripts in each of them in the following order:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+1.npm run start:frontend
+2.npm run start:backend
+The page will reload when you make changes. This app will only work if you also create a '.env' file with your GOOGLE_GEN_API_KEY
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+GOOGLE_GEN_API_KEY=xxxxx
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+To get your API key, visit the Google website that contains the documentation, available at: https://ai.google.dev/gemini-api/docs/api-key
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Essa IA atua como um atendente de pizzaria.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Para fazer o pizzaiolo primeiro foi gerada uma imagem utilizando a ferramenta LeonardoAI que depois foi animada com ImmersityAI
+O Gemini ele é responsável pela parte de interpretação e geração textuals
+
+- [LeonardoAI](https://leonardo.ai/)
+- [Gemini](https://ai.google.dev/gemini-api/)
+- [ImmersityAI](https://app.immersity.ai/)
 
 ## 🧐 Processo de Criação
+
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
+
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
+
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+#### Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ### Exemplos e Insigths
 
