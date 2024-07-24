@@ -1,5 +1,11 @@
 # Order a pizza with Gemini model created using Google API
 
+<p align="center">
+<img 
+    src="./src/assets/print1.png"
+/>
+</p>
+
 This project uses React, Javascript, NodeJS, and Gemini to create a simple web chat.
 
 To run this chat in the development mode to view it in your browser you have to open two terminals and run the following scripts in each of them in the following order:
@@ -28,10 +34,6 @@ O Gemini ele é responsável pela parte de interpretação e geração textuals
 ## 🧐 Processo de Criação
 
 Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-
-Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 
